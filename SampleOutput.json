@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "Apple cracks down on NFT functionality, social post boosts with App Store rules",
+    "description": "Apple's new App Store rules will prohibit app from using NFTs to unlock features. Users can only mint, transfer, and view NFTs.",
+    "url": "https://techcrunch.com/2022/10/25/apple-cracks-down-on-nft-functionality-social-post-boosts-with-app-store-rules/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-b.jpg?resize=1200,675",
+    "publishedAt": "2022-10-25T08:05:15Z",
+    "content": "Apple rolled out software updates iOS 16.1, iPad OS 16.1, and macOS Ventura to all users on Monday. It also introduced new App Store rules that limit features unlocked through NFTs and mandates apps … [+3977 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Manish Singh",
+    "title": "WhatsApp appears to be facing an outage",
+    "description": "WhatsApp, the Meta-owned instant messaging app with over 2 billion users, appears to be facing an outage, according to users.",
+    "url": "https://techcrunch.com/2022/10/25/whatsapp-down/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1234875399.jpg?resize=1200,800",
+    "publishedAt": "2022-10-25T07:48:41Z",
+    "content": "WhatsApp, the Meta-owned instant messaging app with over 2 billion users, appears to be facing an outage, according to users. DownDetector and WaBetaInfo, two web services that track the Facebook app… [+438 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Manish Singh",
+    "title": "Sequoia India eyes $50 million investment in K12 Techno Services despite market slump",
+    "description": "Sequoia India is already a backer of K12 Techno Services offers a range of school management services and also runs its own chain of schools.",
+    "url": "https://techcrunch.com/2022/10/24/sequoia-india-k12-techno-services-orchids-school/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/k12-orchids.jpg?resize=1200,800",
+    "publishedAt": "2022-10-25T05:49:18Z",
+    "content": "Sequoia India is in advanced stages of deliberations to invest over $50 million in K12 Techno Services, a startup that offers a range of services to education institutions and also runs its own chain… [+2233 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Connie Loizos",
+    "title": "Top VCs have expanded into broader asset managers; is the model sustainable?",
+    "description": "Firms like Coatue and General Catalyst now tackle nearly every stage of tech investing. Is it a sustainable model?",
+    "url": "https://techcrunch.com/2022/10/24/top-vcs-have-expanded-into-broader-asset-managers-is-the-model-sustainable/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1435083653.jpg?resize=1200,870",
+    "publishedAt": "2022-10-25T04:33:46Z",
+    "content": "Last week at TechCrunch’s annual Disrupt event, this editor sat down with VCs from two firms that have come to look similar in ways over the last five or so years. One of those VCs was Niko Bonatsos,… [+10727 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tage Kene-Okafor",
+    "title": "54gene CEO steps down as the company looks to cut more jobs",
+    "description": "54gene CEO Abasi Ene-Obong steps down from the company. Though it laid off 95 employees in August, there are more job cuts on the way.",
+    "url": "https://techcrunch.com/2022/10/24/54gene-ceo-steps-down-as-the-company-looks-to-cut-more-jobs/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/PhotoPictureResizer_221025_014542647_crop_1068x761.jpg",
+    "publishedAt": "2022-10-25T01:06:06Z",
+    "content": "54gene co-founder and chief executive officer Dr. Abasi Ene-Obong has stepped down from his executive role, the African genomics company confirmed to TechCrunch today.\r\nThe three-year-old company has… [+5029 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "China's XPeng wants to launch robotaxi network using G9 SUV",
+    "description": "At Xpeng's 2022 Tech Day, the company said it's moving forward with a robotaxi network, unveiled new neural network architecture and more.",
+    "url": "https://techcrunch.com/2022/10/24/chinas-xpeng-wants-to-launch-robotaxi-network-using-g9-suv/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/3-1.jpg?resize=1200,800",
+    "publishedAt": "2022-10-24T23:44:51Z",
+    "content": "Chinese luxury EV startup XPeng is moving forward on its plans to launch a robotaxi business. The company’s latest G9 SUV became China’s first mass-produced commercial vehicle to pass a government-le… [+4093 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas",
+    "title": "Launch House splits with law firm conducting its harassment investigation",
+    "description": "It’s been a little over a month since Launch House, a buzzy venture-backed founder’s club backed by the likes of Andreessen Horowitz and Day One Ventures, publicly faced numerous allegations of harassment and assault. In response to the allegations first surf…",
+    "url": "https://techcrunch.com/2022/10/24/launch-house-splits-with-law-firm-conducting-its-harassment-investigation/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/launch-house.jpg?resize=1200,640",
+    "publishedAt": "2022-10-24T23:31:07Z",
+    "content": "Its been a little over a month since Launch House, a buzzy venture-backed founders club backed by the likes of Andreessen Horowitz and Day One Ventures, publicly faced numerous allegations of harassm… [+2641 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Frederic Lardinois",
+    "title": "Docker launches a first preview of its WebAssembly tooling",
+    "description": "Docker today launched the first technical preview of WebAssembly (Wasm) support in its developer tools.",
+    "url": "https://techcrunch.com/2022/10/24/docker-launches-a-first-preview-of-its-webassembly-support/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1155521158.jpg",
+    "publishedAt": "2022-10-24T19:32:08Z",
+    "content": "Docker is still around and likely doing better at last in financial terms — than during its early hype cycle that kicked off the container revolution (only to then be eclipsed by Kubernetes and its e… [+1982 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Lomas",
+    "title": "Heura tucks into $20M funding chunk for its plant-based proteins ahead of beefier B round next year",
+    "description": "What's going on with demand for plant-based meat? If you take a look at Barcelona-based Heura the alt-protein picture seems rosy -- with \"non-stop\" momentum and a near doubling of revenue in H1 2022...",
+    "url": "https://techcrunch.com/2022/10/24/heura-pre-b-funding/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/Heura-Chicken-BBQ-1.jpg?resize=1200,800",
+    "publishedAt": "2022-10-24T17:16:40Z",
+    "content": "What’s going on with demand for plant-based meat? If you take a look at Barcelona-based Heura the picture seems rosy — with the alt-protein startup claiming “non-stop” momentum and a near doubling of… [+8985 chars]"
+    },
+    {
+    "source":{
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Romain Dillet",
+    "title": "Station F turns its main startup program into an acceleration program",
+    "description": "Station F, the iconic startup campus in Paris, is revamping its Founders Program completely to turn it into an acceleration program. Founders who decide to join the accelerator will get many different benefits. They’ll also have to hand out a 1% equity stake …",
+    "url": "https://techcrunch.com/2022/10/25/station-f-turns-its-main-startup-program-into-an-acceleration-program/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-803399430.jpg",
+    "publishedAt": "2022-10-24T13:54:56Z",
+    "content": "Station F, the iconic startup campus in Paris, is revamping its Founders Program completely to turn it into an acceleration program. Founders who decide to join the accelerator will get many differen… [+2729 chars]"
+    }
+    ]
+    }
